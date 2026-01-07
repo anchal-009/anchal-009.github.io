@@ -1,12 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Anchal Saxena",
+    "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "asaxena@mpifr-bonn.mpg.de",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,38 +21,55 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Max Planck Institute for Radio Astronomy",
+      "location": "Bonn, Germany",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.mpifr-bonn.mpg.de/",
+      "startDate": "11-2025",
+      "endDate": "PRESENT",
+      "summary": "Radio Cosmology Group of Prof. Jonathan Pritchard"
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Cavendish Astrophysics, University of Cambridge",
+      "location": "Cambridge, UK",
+      "url": "https://www.astro.phy.cam.ac.uk/",
+      "position": "Research Assistant",
+      "startDate": "05-2025",
+      "endDate": "10-2025",
+      "summary": "Radio Cosmology Group of Prof. Eloy de Lera Acedo"
+    },
+    {
+      "name": "Van Swinderen Institute, University of Groningen",
+      "location": "The Netherlands",
+      "url": "https://www.rug.nl/research/vsi/?lang=en",
+      "position": "PhD",
+      "startDate": "01-2021",
+      "endDate": "01-2025",
+      "summary": "Advisors: Dr. Daan Meerburg, Prof. Léon Koopmans & Prof. Diederik Roest"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Indian Institute of Technology Indore, India",
+      "location": "Indore, India",
+      "url": "https://sites.google.com/view/daase/home",
+      "studyType": "MSc (Astronomy)",
+      "startDate": "07-2018",
+      "endDate": "07-2020",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "area": [
+        "Thesis: Simulating the impact of dark matter models on the epoch of reionization 21-cm signal (advisors: Dr. Suman Majumdar & Prof. Matteo Viel)"
+      ]
+    },
+    {
+      "institution": "Hansraj College, University of Delhi",
+      "location": "New Delhi, India",
+      "url": "https://www.hansrajcollege.ac.in/academics/departments/science/physics/about",
+      "studyType": "BSc (Physics)",
+      "startDate": "07-2015",
+      "endDate": "06-2018",
+      "score": "10",
+      "area": []
     }
   ],
   "awards": [
@@ -191,7 +205,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"

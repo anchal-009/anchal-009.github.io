@@ -195,6 +195,12 @@ ul.timeline li::before {
   top: -0.5rem;
 }
 
+/* Justify text of CV entries */
+.cv .card p,
+.cv .card li {
+  text-align: justify;
+}
+
 /*ul.timeline::before {
      content: "●";
      font-size: 1em;
