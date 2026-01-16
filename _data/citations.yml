@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-12'
+  last_updated: '2026-01-16'
 papers:
   PHjoj5MAAAAJ:2osOgNQ5qMEC:
     citations: 13
@@ -26,7 +26,7 @@ papers:
     title: 'Radio Antenna Design for Sky-Averaged 21cm Cosmology Experiments: The REACH Case'
     year: '2022'
   PHjoj5MAAAAJ:qjMakFHDy7sC:
-    citations: 43
+    citations: 42
     title: Constraining the X-ray heating and reionization using 21-cm power spectra with Marginal Neural Ratio Estimation
     year: '2023'
   PHjoj5MAAAAJ:u-x6o8ySG0sC:
