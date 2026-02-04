@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-02-04'
 papers:
   PHjoj5MAAAAJ:2osOgNQ5qMEC:
     citations: 13
     title: 'Sky-averaged 21-cm signal extraction using multiple antennas with an SVD framework: the REACH case'
     year: '2023'
   PHjoj5MAAAAJ:9yKSN-GCB0IC:
-    citations: 136
+    citations: 140
     title: "The REACH radiometer for detecting the 21-cm hydrogen signal from redshift z\u2248 7.5\u201328"
     year: '2022'
   PHjoj5MAAAAJ:IjCSPb-OGe4C:
@@ -18,15 +18,19 @@ papers:
     title: Radiometer Calibration using Machine Learning
     year: '2025'
   PHjoj5MAAAAJ:UeHWp8X0CEIC:
-    citations: 13
+    citations: 17
     title: Simulation-Based Inference of the sky-averaged 21-cm signal from CD-EoR with REACH
     year: '2024'
+  PHjoj5MAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: 'The impact of lunar topography on the 21-cm power spectrum for grid-based arrays: Insights for the Dark-ages EXplorer (DEX)'
+    year: '2026'
   PHjoj5MAAAAJ:d1gkVwhDpl0C:
-    citations: 39
+    citations: 41
     title: 'Radio Antenna Design for Sky-Averaged 21cm Cosmology Experiments: The REACH Case'
     year: '2022'
   PHjoj5MAAAAJ:qjMakFHDy7sC:
-    citations: 42
+    citations: 43
     title: Constraining the X-ray heating and reionization using 21-cm power spectra with Marginal Neural Ratio Estimation
     year: '2023'
   PHjoj5MAAAAJ:u-x6o8ySG0sC:
