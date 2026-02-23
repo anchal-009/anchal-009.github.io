@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-23'
 papers:
   PHjoj5MAAAAJ:2osOgNQ5qMEC:
     citations: 13
@@ -14,13 +14,17 @@ papers:
     title: 'Advancing 21-cm Cosmology with Machine Learning: Simulation-Based Inference, Pattern Recognition, and Deep Learning for the Cosmic Dawn and Epoch of Reionization Data Analysis'
     year: '2025'
   PHjoj5MAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
-    title: Radiometer Calibration using Machine Learning
+    citations: 2
+    title: Radiometer calibration using machine learning
     year: '2025'
   PHjoj5MAAAAJ:UeHWp8X0CEIC:
-    citations: 17
+    citations: 20
     title: Simulation-Based Inference of the sky-averaged 21-cm signal from CD-EoR with REACH
     year: '2024'
+  PHjoj5MAAAAJ:W7OEmFMy1HYC:
+    citations: 1
+    title: 'undark-lab/swyft: v0. 4.5'
+    year: '2023'
   PHjoj5MAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: 'The impact of lunar topography on the 21-cm power spectrum for grid-based arrays: Insights for the Dark-ages EXplorer (DEX)'
@@ -38,10 +42,10 @@ papers:
     title: Simulating the impact of dark matter models on the epoch of reionization 21-cm signal
     year: '2020'
   PHjoj5MAAAAJ:u5HHmVD_uO8C:
-    citations: 21
+    citations: 20
     title: Impact of dark matter models on the EoR 21-cm signal bispectrum
     year: '2020'
   PHjoj5MAAAAJ:zYLM7Y9cAGgC:
-    citations: 6
+    citations: 7
     title: Receiver design for the REACH global 21-cm signal experiment
     year: '2025'
