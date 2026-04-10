@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-10'
 papers:
   PHjoj5MAAAAJ:2osOgNQ5qMEC:
     citations: 13
     title: 'Sky-averaged 21-cm signal extraction using multiple antennas with an SVD framework: the REACH case'
     year: '2023'
   PHjoj5MAAAAJ:9yKSN-GCB0IC:
-    citations: 151
+    citations: 150
     title: "The REACH radiometer for detecting the 21-cm hydrogen signal from redshift z\u2248 7.5\u201328"
     year: '2022'
   PHjoj5MAAAAJ:IjCSPb-OGe4C:
