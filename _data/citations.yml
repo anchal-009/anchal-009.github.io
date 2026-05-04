@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-04'
 papers:
   PHjoj5MAAAAJ:2osOgNQ5qMEC:
     citations: 13
     title: 'Sky-averaged 21-cm signal extraction using multiple antennas with an SVD framework: the REACH case'
     year: '2023'
   PHjoj5MAAAAJ:9yKSN-GCB0IC:
-    citations: 150
+    citations: 155
     title: "The REACH radiometer for detecting the 21-cm hydrogen signal from redshift z\u2248 7.5\u201328"
     year: '2022'
   PHjoj5MAAAAJ:IjCSPb-OGe4C:
@@ -25,16 +25,28 @@ papers:
     citations: 1
     title: 'undark-lab/swyft: v0. 4.5'
     year: '2023'
+  PHjoj5MAAAAJ:WF5omc3nYNoC:
+    citations: 3
+    title: Receiver design for the reach global 21-cm signal experiment
+    year: '2023'
   PHjoj5MAAAAJ:Y0pCki6q_DkC:
-    citations: 0
+    citations: 1
     title: 'The impact of lunar topography on the 21-cm power spectrum for grid-based arrays: Insights for the Dark-ages EXplorer (DEX)'
     year: '2026'
+  PHjoj5MAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Circuit Modeling for In Situ 21 cm Radiometer Calibration
+    year: '2026'
   PHjoj5MAAAAJ:d1gkVwhDpl0C:
-    citations: 49
+    citations: 52
     title: 'Radio Antenna Design for Sky-Averaged 21cm Cosmology Experiments: The REACH Case'
     year: '2022'
+  PHjoj5MAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: 'Optimisation of calibration sources for global 21-cm experiments: the REACH case'
+    year: '2026'
   PHjoj5MAAAAJ:qjMakFHDy7sC:
-    citations: 45
+    citations: 46
     title: Constraining the X-ray heating and reionization using 21-cm power spectra with Marginal Neural Ratio Estimation
     year: '2023'
   PHjoj5MAAAAJ:u-x6o8ySG0sC:
@@ -46,6 +58,6 @@ papers:
     title: Impact of dark matter models on the EoR 21-cm signal bispectrum
     year: '2020'
   PHjoj5MAAAAJ:zYLM7Y9cAGgC:
-    citations: 8
+    citations: 9
     title: Receiver design for the REACH global 21-cm signal experiment
     year: '2025'
